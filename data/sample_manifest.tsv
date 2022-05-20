@@ -1,3 +1,4 @@
 sample	status	group
 bulk-rnaseq-pipeline-01	ready	control
 bulk-rnaseq-pipeline-02	review	case
+bulk-rnaseq-pipeline-03	queued	validation
